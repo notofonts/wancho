@@ -10,8 +10,6 @@
     <integer>1</integer>
     <key>GSOffsetVertical</key>
     <integer>33</integer>
-    <key>com.github.googlei18n.ufo2ft.useProductionNames</key>
-    <false/>
     <key>com.schriftgestaltung.appVersion</key>
     <string>1271</string>
     <key>com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment</key>
