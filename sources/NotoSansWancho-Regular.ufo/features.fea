@@ -5,7 +5,7 @@ languagesystem wcho dflt;
 
 feature locl {
 script wcho;
-sub @ALL_WANCHO by [slash.wcho backslash.wcho parenleft.wcho braceleft.wcho bracketleft.wcho hyphen.wcho quotedblleft.wcho quotedblright.wcho quotedbl.wcho quotesingle.wcho ];
+sub [slash backslash parenleft braceleft bracketleft hyphen quotedblleft quotedblright quotedbl quotesingle ] by [slash.wcho backslash.wcho parenleft.wcho braceleft.wcho bracketleft.wcho hyphen.wcho quotedblleft.wcho quotedblright.wcho quotedbl.wcho quotesingle.wcho ];
 } locl;
 
 table GDEF {
