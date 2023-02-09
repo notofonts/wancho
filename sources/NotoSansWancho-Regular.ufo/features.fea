@@ -1,6 +1,7 @@
 @ALL_WANCHO = [ aa-wcho a-wcho ba-wcho ca-wcho da-wcho ga-wcho ya-wcho pha-wcho la-wcho na-wcho pa-wcho ta-wcho tha-wcho fa-wcho sa-wcho sha-wcho ja-wcho za-wcho wa-wcho va-wcho ka-wcho o-wcho au-wcho ra-wcho ma-wcho kha-wcho ha-wcho e-wcho i-wcho nga-wcho u-wcho llha-wcho tsa-wcho tra-wcho ong-wcho aang-wcho ang-wcho ing-wcho on-wcho en-wcho aan-wcho nya-wcho uen-wcho yih-wcho zero-wcho one-wcho two-wcho three-wcho four-wcho five-wcho six-wcho seven-wcho eight-wcho nine-wcho ngunSign-wcho ];
 
 # Prefix: Languagesystems
+languagesystem DFLT dflt;
 languagesystem wcho dflt;
 
 feature locl {
